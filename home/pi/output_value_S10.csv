@@ -1,0 +1,13 @@
+No.,Output_Index,ID_Output,Output_Name,Output_Type,Value
+0,32,Y40,S10/out/00,b,0
+1,33,Y41,S10/out/01,b,0
+2,34,Y42,S10/out/02,b,0
+3,35,Y43,S10/out/03,b,0
+4,168,Y250,S10/out/04,b,0
+5,169,Y251,S10/out/05,b,0
+6,170,Y252,S10/out/06,b,0
+7,171,Y253,S10/out/07,b,0
+8,172,Y254,S10/out/08,b,0
+9,173,Y255,S10/out/09,b,0
+10,174,Y256,S10/out/10,b,0
+11,175,Y257,S10/out/11,b,0
